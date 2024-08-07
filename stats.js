@@ -52,11 +52,11 @@ module.exports = {
       }
 
       // Assuming global.utils.getStreamFromURL(img) is correctly defined
-      const imgURL= "https://i.ibb.co/4f70Xs9/image.jpg";
+      const imgURL= "https://i.ibb.co/F0DT6ZK/image.jpg";
       const attachment = await global.utils.getStreamFromURL(imgURL); api.sendMessage({
-        body: `🍀𝑆𝑈𝑃𝐸𝑅♻️𝑆𝑂𝑁𝐼𝐶🍀 \────────\
+        body: `🍀𝑆𝑈𝑃𝐸𝑅♻️𝘈𝘛𝘖𝘔𝘐𝘊🍀 \────────\
 
-🍀 | 𝐒𝐎𝐍𝐈𝐂 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 𝐓𝐈𝐌𝐄﹞\  ${uptimeString}\──────── \
+🍀 | 𝘈𝘛𝘖𝘔𝘐𝘊 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 𝐓𝐈𝐌𝐄﹞\  ${uptimeString}\──────── \
 
 📅 | 𝗗𝗔𝗧𝗘﹞: ${date}\────────\n 𝗧𝗲𝗺𝗽: ${time}\──────── \
 
