@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
   config: {
     name: "arcano",
-    aliases: ["Shïsûį"],
+    aliases: ["cid"],
     author: " Aesther ", 
     version: "2.0",
     cooldowns: 5,
@@ -27,16 +27,18 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '🔴𝐀𝐑𝐂𝐀𝐍𝐎🔴',
+          name: '✞𝐂𝐈𝐃✄𝐊𝐀𝐆𝐄𝐍𝐎✞',
           gender: '𝗕𝗢𝗬',
-          hobby: '𝐁𝐚𝐬𝐤𝐞𝐭🏀',
-          relationship: '𝙐𝙉𝘿𝙀𝙁𝙄𝙉𝙀𝘿',
+          hobby: '𝐅𝐎𝐎𝐓𝐁𝐀𝐋𝐋⚽',
+          relationship: '𝐂É𝐋𝐈𝐁𝐀𝐓𝐀𝐈𝐑𝐄😞',
           facebookLink: 'https://www.facebook.com/profile.php?id=61559119588245',
-          bio: '𝙐𝙉𝘿𝙀𝙁𝙄𝙉𝙀𝘿'
+          bio: '𝐝𝐞𝐯𝐞𝐧𝐮𝐞 𝐥'𝐞𝐦𝐢𝐧𝐞𝐧𝐜𝐞 𝐝𝐚𝐧𝐬 𝐥'𝐨𝐦𝐛𝐫𝐞. 
+          𝐝𝐫𝐚𝐠𝐮𝐞𝐮𝐫 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐧𝐞𝐥.
+          '
         };
 
         const videoUrl = 
-["https://i.imgur.com/ZpgBKGA.mp4",
+["https://i.imgur.com/9vCNzms.mp4",
 "https://i.imgur.com/h6J9tkb.mp4",
 "https://i.imgur.com/RmMI3dC.mp4",
 "https://i.imgur.com/jeyjWuk.mp4",
